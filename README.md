@@ -2,7 +2,6 @@
 
 <hr>
 
-## Hi I'm EReaX
 ## About Me
 * Who is EReaX?
   * My name is Emircan.
