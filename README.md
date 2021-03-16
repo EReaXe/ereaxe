@@ -1,7 +1,5 @@
 # Hello, welcome to my GitHub page! 🏓
 
-<hr>
-
 ## About Me
 * Who is EReaX?
   * My name is Emircan.
