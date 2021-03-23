@@ -2,7 +2,7 @@
 
 ## About Me
 * Who is EReaX?
-  * My name is Emircan.
+  * My name is EReaX.
   * I'm from Ankara.
   * I am 16 years old.
   * Favorite programming language is JavaScript.
