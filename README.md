@@ -4,7 +4,7 @@
 * Who is EReaX?
   * My name is EReaX.
   * I'm from Ankara.
-  * I am 16 years old.
+  * I am 17 years old.
   * Favorite programming language is JavaScript.
 
 ## 📌 Stats
